@@ -1,0 +1,5 @@
+<Config>
+   <CIR_time_res value="8.138020833333334e-09"/>
+   <Anchor_count value="6" />
+   <TD_value_range min="0" max="400e-9" />
+</Config>
