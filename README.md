@@ -4,14 +4,15 @@ The code for the paper "Indoor Localization with Robust Global Channel Charting:
 
 ## Reference
 
-Please cite our work if you find our work useful for your reasearch:
-
+Please cite our work if you find our work useful for your research:
+```
 @article{stahlke2022indoor,  
-&emsp; title={Indoor Localization with Robust Global Channel Charting: A Time-Distance-Based Approach},  
-&emsp; author={Stahlke, Maximilian and Yammine, George and Feigl, Tobias and Eskofier, Bjoern M and Mutschler, Christopher},  
-&emsp; journal={arXiv preprint arXiv:2210.06294},  
-&emsp; year={2022}  
+    title={Indoor Localization with Robust Global Channel Charting: A Time-Distance-Based Approach},  
+    author={Stahlke, Maximilian and Yammine, George and Feigl, Tobias and Eskofier, Bjoern M and Mutschler, Christopher},  
+    journal={arXiv preprint arXiv:2210.06294},  
+    year={2022}  
 }
+```
 
 ## Method
 
