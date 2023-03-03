@@ -1,7 +1,8 @@
 # Indoor Localization with Robust Global Channel Charting
 
-The code for the paper "Indoor Localization with Robust Global Channel Charting: A Time-Distance-Based Approach".
+This repository contains the code for the paper "Indoor Localization with Robust Global Channel Charting: A Time-Distance-Based Approach".
 
+The dataset can be downloaded here: <a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/pos/fingerprinting-dataset-for-positioning.html">https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/pos/fingerprinting-dataset-for-positioning.html</a>
 ## Reference
 
 Please cite our work if you find our work useful for your research:
