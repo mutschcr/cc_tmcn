@@ -27,7 +27,7 @@ This code was tested on Python 3.8.5 with CUDA version 11.6. Clone the resposito
 pip install .
 ```
 
-the datasets can be downloaded at ...
+
 
 ## Preprocessing
 
