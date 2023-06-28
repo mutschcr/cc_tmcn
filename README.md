@@ -13,7 +13,6 @@ Please cite our work if you find our work useful for your research:
   title={Indoor Localization With Robust Global Channel Charting: A Time-Distance-Based Approach}, 
   year={2023},
   volume={1},
-  number={},
   pages={3-17},
   doi={10.1109/TMLCN.2023.3256964}}
 ```
