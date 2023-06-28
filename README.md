@@ -7,12 +7,15 @@ The dataset can be downloaded here: <a href="https://www.iis.fraunhofer.de/en/ff
 
 Please cite our work if you find our work useful for your research:
 ```
-@article{stahlke2022indoor,  
-    title={Indoor Localization with Robust Global Channel Charting: A Time-Distance-Based Approach},  
-    author={Stahlke, Maximilian and Yammine, George and Feigl, Tobias and Eskofier, Bjoern M and Mutschler, Christopher},  
-    journal={arXiv preprint arXiv:2210.06294},  
-    year={2022}  
-}
+@ARTICLE{stahlke2022indoor,
+  author={Stahlke, Maximilian and Yammine, George and Feigl, Tobias and Eskofier, Bjoern M. and Mutschler, Christopher},
+  journal={IEEE Transactions on Machine Learning in Communications and Networking}, 
+  title={Indoor Localization With Robust Global Channel Charting: A Time-Distance-Based Approach}, 
+  year={2023},
+  volume={1},
+  number={},
+  pages={3-17},
+  doi={10.1109/TMLCN.2023.3256964}}
 ```
 
 ## Method
